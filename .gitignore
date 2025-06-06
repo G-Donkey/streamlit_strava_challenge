@@ -2,3 +2,7 @@ Final/
 random/
 cache/
 .cache/
+interactive*
+streamlit*
+DTM*
+

@@ -1,0 +1,1 @@
+'length', 'name', 'dist_km_edge', 'time_min_edge', 'elev_gain_edge', 'merit_edge', 'merit_edge_per_minute'
