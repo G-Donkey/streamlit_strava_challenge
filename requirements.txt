@@ -1,0 +1,9 @@
+streamlit
+pandas
+osmnx
+rasterio
+numpy
+folium
+mapclassify
+matplotlib
+watchdog
