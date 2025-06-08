@@ -120,12 +120,14 @@ Install the required packages using pip. You can create a `requirements.txt` fil
 ```
 streamlit
 pandas
-numpy
 osmnx
 rasterio
-geopandas
+numpy
 folium
 mapclassify
+matplotlib
+watchdog
+geopandas
 ```
 
 ## 🚀 How to Run
