@@ -6,7 +6,7 @@ The front-end is built with Streamlit, allowing users to dynamically configure p
 
 ![alt text](<Screenshot 2025-06-12 at 10.12.47.png>)
 
-![alt text](<Screenshot 2025-06-12 at 10.14.06.png>)
+![alt text](<Screenshot 2025-06-12 at 10.15.10.png>)
 
 ## ✨ Features
 
