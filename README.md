@@ -4,6 +4,10 @@ This application analyzes street and trail networks for a given location to iden
 
 The front-end is built with Streamlit, allowing users to dynamically configure parameters and generate new map visualizations on the fly.
 
+![alt text](<Screenshot 2025-06-12 at 10.12.47.png>)
+
+![alt text](<Screenshot 2025-06-12 at 10.14.06.png>)
+
 ## ✨ Features
 
   * **Dynamic Network Analysis**: Fetches street/trail data for any location from OpenStreetMap using the `osmnx` library.
